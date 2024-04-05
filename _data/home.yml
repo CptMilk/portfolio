@@ -5,69 +5,24 @@ navbar_entries:
 project_entries:
   - title: Maple County
     url: maple-county
-    desc: My work for Maple County, by Central Roleplay Community
+    desc: My work for Maple County, FPD and FFD
 
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+  - title: Project Flight
+    url: project-flight
+    desc: Airline liveries for Project Flight
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+  - title: FiveM
+    url: fivem
+    desc: Liveries made by me for various FiveM servers
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+  - title: Miscellaneous
+    url: misc
+    desc: Misc liveries, mostly random ones I like
 
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+#old_project_entries:
 
-footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+#footer_entries:
 
-  - title: twitter
-    url: https://twitter.com/abhinav
-
-  - title: github
-    url: https://github.com/abhinavs
-
-  - title: feed
-    url: feed.xml
-
-misc_entries:
-  - title: this is an example vertical list
-    url: false
-
-  - title: you can show or hide using a boolean flag in _config.yml
-    url: false
-
-  - title: and you can add data in _data/home.yml
-    url: false
-
-  - title: Blog posts
-    post_list: true
-    url: false
-
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
-
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
-
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
-
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
+#misc_entries:
 
 
